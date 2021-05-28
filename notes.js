@@ -64,4 +64,4 @@ const moreNewerNote = {
 
 createNote(moreNewerNote)
 
-console.log(notes)
+// console.log(notes)
